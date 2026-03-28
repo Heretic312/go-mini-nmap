@@ -27,7 +27,6 @@ go build
 * Color-coded console output
 * Configurable concurrency
 * Exportable results
-* Portfolio-ready structure
 
 ## Examples
 
